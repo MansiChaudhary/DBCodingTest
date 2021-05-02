@@ -26,3 +26,6 @@ Url Used for Testing
  
  2. to save Trade
  POST : http://localhost:8080/trade/save
+
+
+It took 2.36 min to complete the test.
